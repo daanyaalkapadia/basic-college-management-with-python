@@ -12,4 +12,4 @@ A CSV file is nothing but a file with data separated by commas. Create colleges.
     i. Write code for reading data from the CSV file for all matching records and
     display the same
   c. Remove College based on collegeId
-    i. Write code to delete matching collegeId data from the CSV file in this case
+    i. Write code to delete matching collegeId data from the CSV file in this case.
